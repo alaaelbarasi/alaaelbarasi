@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @alaaelbarasi
-- 👀 I’m interested in machine learning and web developmwnt
-- 🌱 I’m currently learning machine learning and image steganography.
+- 👋 Hi, I’m Alaa Elbarasi
+- 👀 I'm interested in machine learning, software development, and information security.
 - 📫 How to reach me Twitter : @Alaa_yacoub0 LinkenIn: Alaa Elbarasi
 
 <!---
